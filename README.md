@@ -1,6 +1,14 @@
 # style
 收集癖
 
+## 官方文档
+**Google Cpp Style**：https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/contents/
+
+**Cmake**：https://cmake.org/cmake/help/latest/
+
+**Docker**：https://docs.docker.com/get-started/overview/
+
+
 ## ascii码表
 [正文](ascii/ascii.md)
 
